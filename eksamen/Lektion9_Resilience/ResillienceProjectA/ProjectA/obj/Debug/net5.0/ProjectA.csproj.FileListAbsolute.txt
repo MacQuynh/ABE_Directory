@@ -1,0 +1,102 @@
+C:\Users\randi\source\repos\ABE_advancedBackend\ResillienceProjectA\ProjectA\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\randi\source\repos\ABE_advancedBackend\ResillienceProjectA\ProjectA\bin\Debug\net5.0\appsettings.json
+C:\Users\randi\source\repos\ABE_advancedBackend\ResillienceProjectA\ProjectA\bin\Debug\net5.0\ProjectA.exe
+C:\Users\randi\source\repos\ABE_advancedBackend\ResillienceProjectA\ProjectA\bin\Debug\net5.0\ProjectA.deps.json
+C:\Users\randi\source\repos\ABE_advancedBackend\ResillienceProjectA\ProjectA\bin\Debug\net5.0\ProjectA.runtimeconfig.json
+C:\Users\randi\source\repos\ABE_advancedBackend\ResillienceProjectA\ProjectA\bin\Debug\net5.0\ProjectA.runtimeconfig.dev.json
+C:\Users\randi\source\repos\ABE_advancedBackend\ResillienceProjectA\ProjectA\bin\Debug\net5.0\ProjectA.dll
+C:\Users\randi\source\repos\ABE_advancedBackend\ResillienceProjectA\ProjectA\bin\Debug\net5.0\ref\ProjectA.dll
+C:\Users\randi\source\repos\ABE_advancedBackend\ResillienceProjectA\ProjectA\bin\Debug\net5.0\ProjectA.pdb
+C:\Users\randi\source\repos\ABE_advancedBackend\ResillienceProjectA\ProjectA\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\randi\source\repos\ABE_advancedBackend\ResillienceProjectA\ProjectA\bin\Debug\net5.0\Polly.dll
+C:\Users\randi\source\repos\ABE_advancedBackend\ResillienceProjectA\ProjectA\bin\Debug\net5.0\Polly.Extensions.Http.dll
+C:\Users\randi\source\repos\ABE_advancedBackend\ResillienceProjectA\ProjectA\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\randi\source\repos\ABE_advancedBackend\ResillienceProjectA\ProjectA\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\randi\source\repos\ABE_advancedBackend\ResillienceProjectA\ProjectA\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\randi\source\repos\ABE_advancedBackend\ResillienceProjectA\ProjectA\obj\Debug\net5.0\ProjectA.csprojAssemblyReference.cache
+C:\Users\randi\source\repos\ABE_advancedBackend\ResillienceProjectA\ProjectA\obj\Debug\net5.0\ProjectA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\randi\source\repos\ABE_advancedBackend\ResillienceProjectA\ProjectA\obj\Debug\net5.0\ProjectA.AssemblyInfoInputs.cache
+C:\Users\randi\source\repos\ABE_advancedBackend\ResillienceProjectA\ProjectA\obj\Debug\net5.0\ProjectA.AssemblyInfo.cs
+C:\Users\randi\source\repos\ABE_advancedBackend\ResillienceProjectA\ProjectA\obj\Debug\net5.0\ProjectA.csproj.CoreCompileInputs.cache
+C:\Users\randi\source\repos\ABE_advancedBackend\ResillienceProjectA\ProjectA\obj\Debug\net5.0\ProjectA.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\randi\source\repos\ABE_advancedBackend\ResillienceProjectA\ProjectA\obj\Debug\net5.0\ProjectA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\randi\source\repos\ABE_advancedBackend\ResillienceProjectA\ProjectA\obj\Debug\net5.0\staticwebassets\ProjectA.StaticWebAssets.Manifest.cache
+C:\Users\randi\source\repos\ABE_advancedBackend\ResillienceProjectA\ProjectA\obj\Debug\net5.0\staticwebassets\ProjectA.StaticWebAssets.xml
+C:\Users\randi\source\repos\ABE_advancedBackend\ResillienceProjectA\ProjectA\obj\Debug\net5.0\scopedcss\bundle\ProjectA.styles.css
+C:\Users\randi\source\repos\ABE_advancedBackend\ResillienceProjectA\ProjectA\obj\Debug\net5.0\ProjectA.RazorTargetAssemblyInfo.cache
+C:\Users\randi\source\repos\ABE_advancedBackend\ResillienceProjectA\ProjectA\obj\Debug\net5.0\ProjectA.csproj.CopyComplete
+C:\Users\randi\source\repos\ABE_advancedBackend\ResillienceProjectA\ProjectA\obj\Debug\net5.0\ProjectA.dll
+C:\Users\randi\source\repos\ABE_advancedBackend\ResillienceProjectA\ProjectA\obj\Debug\net5.0\ref\ProjectA.dll
+C:\Users\randi\source\repos\ABE_advancedBackend\ResillienceProjectA\ProjectA\obj\Debug\net5.0\ProjectA.pdb
+C:\Users\randi\source\repos\ABE_advancedBackend\ResillienceProjectA\ProjectA\obj\Debug\net5.0\ProjectA.genruntimeconfig.cache
+C:\Users\randi\source\repos\ABE_advancedBackend\ResillienceProjectA\ProjectA\bin\Debug\net5.0\libman.json
+C:\Users\randi\source\repos\ABE_advancedBackend\ResillienceProjectA\ProjectA\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\randi\source\repos\ABE_advancedBackend\ResillienceProjectA\ProjectA\bin\Debug\net5.0\Microsoft.Extensions.Http.Polly.dll
+C:\Users\Jonas\OneDrive\Skrivebord\Eksamen\Advanced backend development\4 - Resiliance\Lektion9_Resilience\Lektion9_Resilience\ResillienceProjectA\ProjectA\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Jonas\OneDrive\Skrivebord\Eksamen\Advanced backend development\4 - Resiliance\Lektion9_Resilience\Lektion9_Resilience\ResillienceProjectA\ProjectA\bin\Debug\net5.0\appsettings.json
+C:\Users\Jonas\OneDrive\Skrivebord\Eksamen\Advanced backend development\4 - Resiliance\Lektion9_Resilience\Lektion9_Resilience\ResillienceProjectA\ProjectA\bin\Debug\net5.0\libman.json
+C:\Users\Jonas\OneDrive\Skrivebord\Eksamen\Advanced backend development\4 - Resiliance\Lektion9_Resilience\Lektion9_Resilience\ResillienceProjectA\ProjectA\bin\Debug\net5.0\ProjectA.exe
+C:\Users\Jonas\OneDrive\Skrivebord\Eksamen\Advanced backend development\4 - Resiliance\Lektion9_Resilience\Lektion9_Resilience\ResillienceProjectA\ProjectA\bin\Debug\net5.0\ProjectA.deps.json
+C:\Users\Jonas\OneDrive\Skrivebord\Eksamen\Advanced backend development\4 - Resiliance\Lektion9_Resilience\Lektion9_Resilience\ResillienceProjectA\ProjectA\bin\Debug\net5.0\ProjectA.runtimeconfig.json
+C:\Users\Jonas\OneDrive\Skrivebord\Eksamen\Advanced backend development\4 - Resiliance\Lektion9_Resilience\Lektion9_Resilience\ResillienceProjectA\ProjectA\bin\Debug\net5.0\ProjectA.runtimeconfig.dev.json
+C:\Users\Jonas\OneDrive\Skrivebord\Eksamen\Advanced backend development\4 - Resiliance\Lektion9_Resilience\Lektion9_Resilience\ResillienceProjectA\ProjectA\bin\Debug\net5.0\ProjectA.dll
+C:\Users\Jonas\OneDrive\Skrivebord\Eksamen\Advanced backend development\4 - Resiliance\Lektion9_Resilience\Lektion9_Resilience\ResillienceProjectA\ProjectA\bin\Debug\net5.0\ref\ProjectA.dll
+C:\Users\Jonas\OneDrive\Skrivebord\Eksamen\Advanced backend development\4 - Resiliance\Lektion9_Resilience\Lektion9_Resilience\ResillienceProjectA\ProjectA\bin\Debug\net5.0\ProjectA.pdb
+C:\Users\Jonas\OneDrive\Skrivebord\Eksamen\Advanced backend development\4 - Resiliance\Lektion9_Resilience\Lektion9_Resilience\ResillienceProjectA\ProjectA\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jonas\OneDrive\Skrivebord\Eksamen\Advanced backend development\4 - Resiliance\Lektion9_Resilience\Lektion9_Resilience\ResillienceProjectA\ProjectA\bin\Debug\net5.0\Microsoft.Extensions.Http.Polly.dll
+C:\Users\Jonas\OneDrive\Skrivebord\Eksamen\Advanced backend development\4 - Resiliance\Lektion9_Resilience\Lektion9_Resilience\ResillienceProjectA\ProjectA\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Jonas\OneDrive\Skrivebord\Eksamen\Advanced backend development\4 - Resiliance\Lektion9_Resilience\Lektion9_Resilience\ResillienceProjectA\ProjectA\bin\Debug\net5.0\Polly.dll
+C:\Users\Jonas\OneDrive\Skrivebord\Eksamen\Advanced backend development\4 - Resiliance\Lektion9_Resilience\Lektion9_Resilience\ResillienceProjectA\ProjectA\bin\Debug\net5.0\Polly.Extensions.Http.dll
+C:\Users\Jonas\OneDrive\Skrivebord\Eksamen\Advanced backend development\4 - Resiliance\Lektion9_Resilience\Lektion9_Resilience\ResillienceProjectA\ProjectA\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jonas\OneDrive\Skrivebord\Eksamen\Advanced backend development\4 - Resiliance\Lektion9_Resilience\Lektion9_Resilience\ResillienceProjectA\ProjectA\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jonas\OneDrive\Skrivebord\Eksamen\Advanced backend development\4 - Resiliance\Lektion9_Resilience\Lektion9_Resilience\ResillienceProjectA\ProjectA\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jonas\OneDrive\Skrivebord\Eksamen\Advanced backend development\4 - Resiliance\Lektion9_Resilience\Lektion9_Resilience\ResillienceProjectA\ProjectA\obj\Debug\net5.0\ProjectA.csprojAssemblyReference.cache
+C:\Users\Jonas\OneDrive\Skrivebord\Eksamen\Advanced backend development\4 - Resiliance\Lektion9_Resilience\Lektion9_Resilience\ResillienceProjectA\ProjectA\obj\Debug\net5.0\ProjectA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonas\OneDrive\Skrivebord\Eksamen\Advanced backend development\4 - Resiliance\Lektion9_Resilience\Lektion9_Resilience\ResillienceProjectA\ProjectA\obj\Debug\net5.0\ProjectA.AssemblyInfoInputs.cache
+C:\Users\Jonas\OneDrive\Skrivebord\Eksamen\Advanced backend development\4 - Resiliance\Lektion9_Resilience\Lektion9_Resilience\ResillienceProjectA\ProjectA\obj\Debug\net5.0\ProjectA.AssemblyInfo.cs
+C:\Users\Jonas\OneDrive\Skrivebord\Eksamen\Advanced backend development\4 - Resiliance\Lektion9_Resilience\Lektion9_Resilience\ResillienceProjectA\ProjectA\obj\Debug\net5.0\ProjectA.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\OneDrive\Skrivebord\Eksamen\Advanced backend development\4 - Resiliance\Lektion9_Resilience\Lektion9_Resilience\ResillienceProjectA\ProjectA\obj\Debug\net5.0\ProjectA.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jonas\OneDrive\Skrivebord\Eksamen\Advanced backend development\4 - Resiliance\Lektion9_Resilience\Lektion9_Resilience\ResillienceProjectA\ProjectA\obj\Debug\net5.0\ProjectA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jonas\OneDrive\Skrivebord\Eksamen\Advanced backend development\4 - Resiliance\Lektion9_Resilience\Lektion9_Resilience\ResillienceProjectA\ProjectA\obj\Debug\net5.0\staticwebassets\ProjectA.StaticWebAssets.Manifest.cache
+C:\Users\Jonas\OneDrive\Skrivebord\Eksamen\Advanced backend development\4 - Resiliance\Lektion9_Resilience\Lektion9_Resilience\ResillienceProjectA\ProjectA\obj\Debug\net5.0\staticwebassets\ProjectA.StaticWebAssets.xml
+C:\Users\Jonas\OneDrive\Skrivebord\Eksamen\Advanced backend development\4 - Resiliance\Lektion9_Resilience\Lektion9_Resilience\ResillienceProjectA\ProjectA\obj\Debug\net5.0\scopedcss\bundle\ProjectA.styles.css
+C:\Users\Jonas\OneDrive\Skrivebord\Eksamen\Advanced backend development\4 - Resiliance\Lektion9_Resilience\Lektion9_Resilience\ResillienceProjectA\ProjectA\obj\Debug\net5.0\ProjectA.RazorTargetAssemblyInfo.cache
+C:\Users\Jonas\OneDrive\Skrivebord\Eksamen\Advanced backend development\4 - Resiliance\Lektion9_Resilience\Lektion9_Resilience\ResillienceProjectA\ProjectA\obj\Debug\net5.0\ProjectA.csproj.CopyComplete
+C:\Users\Jonas\OneDrive\Skrivebord\Eksamen\Advanced backend development\4 - Resiliance\Lektion9_Resilience\Lektion9_Resilience\ResillienceProjectA\ProjectA\obj\Debug\net5.0\ProjectA.dll
+C:\Users\Jonas\OneDrive\Skrivebord\Eksamen\Advanced backend development\4 - Resiliance\Lektion9_Resilience\Lektion9_Resilience\ResillienceProjectA\ProjectA\obj\Debug\net5.0\ref\ProjectA.dll
+C:\Users\Jonas\OneDrive\Skrivebord\Eksamen\Advanced backend development\4 - Resiliance\Lektion9_Resilience\Lektion9_Resilience\ResillienceProjectA\ProjectA\obj\Debug\net5.0\ProjectA.pdb
+C:\Users\Jonas\OneDrive\Skrivebord\Eksamen\Advanced backend development\4 - Resiliance\Lektion9_Resilience\Lektion9_Resilience\ResillienceProjectA\ProjectA\obj\Debug\net5.0\ProjectA.genruntimeconfig.cache
+C:\Users\Quynh Trang Mac\Desktop\Lektion9_Resilience\ResillienceProjectA\ProjectA\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Quynh Trang Mac\Desktop\Lektion9_Resilience\ResillienceProjectA\ProjectA\bin\Debug\net5.0\appsettings.json
+C:\Users\Quynh Trang Mac\Desktop\Lektion9_Resilience\ResillienceProjectA\ProjectA\bin\Debug\net5.0\libman.json
+C:\Users\Quynh Trang Mac\Desktop\Lektion9_Resilience\ResillienceProjectA\ProjectA\bin\Debug\net5.0\ProjectA.exe
+C:\Users\Quynh Trang Mac\Desktop\Lektion9_Resilience\ResillienceProjectA\ProjectA\bin\Debug\net5.0\ProjectA.deps.json
+C:\Users\Quynh Trang Mac\Desktop\Lektion9_Resilience\ResillienceProjectA\ProjectA\bin\Debug\net5.0\ProjectA.runtimeconfig.json
+C:\Users\Quynh Trang Mac\Desktop\Lektion9_Resilience\ResillienceProjectA\ProjectA\bin\Debug\net5.0\ProjectA.runtimeconfig.dev.json
+C:\Users\Quynh Trang Mac\Desktop\Lektion9_Resilience\ResillienceProjectA\ProjectA\bin\Debug\net5.0\ProjectA.dll
+C:\Users\Quynh Trang Mac\Desktop\Lektion9_Resilience\ResillienceProjectA\ProjectA\bin\Debug\net5.0\ref\ProjectA.dll
+C:\Users\Quynh Trang Mac\Desktop\Lektion9_Resilience\ResillienceProjectA\ProjectA\bin\Debug\net5.0\ProjectA.pdb
+C:\Users\Quynh Trang Mac\Desktop\Lektion9_Resilience\ResillienceProjectA\ProjectA\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Quynh Trang Mac\Desktop\Lektion9_Resilience\ResillienceProjectA\ProjectA\bin\Debug\net5.0\Microsoft.Extensions.Http.Polly.dll
+C:\Users\Quynh Trang Mac\Desktop\Lektion9_Resilience\ResillienceProjectA\ProjectA\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Quynh Trang Mac\Desktop\Lektion9_Resilience\ResillienceProjectA\ProjectA\bin\Debug\net5.0\Polly.dll
+C:\Users\Quynh Trang Mac\Desktop\Lektion9_Resilience\ResillienceProjectA\ProjectA\bin\Debug\net5.0\Polly.Extensions.Http.dll
+C:\Users\Quynh Trang Mac\Desktop\Lektion9_Resilience\ResillienceProjectA\ProjectA\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Quynh Trang Mac\Desktop\Lektion9_Resilience\ResillienceProjectA\ProjectA\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Quynh Trang Mac\Desktop\Lektion9_Resilience\ResillienceProjectA\ProjectA\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Quynh Trang Mac\Desktop\Lektion9_Resilience\ResillienceProjectA\ProjectA\obj\Debug\net5.0\ProjectA.csprojAssemblyReference.cache
+C:\Users\Quynh Trang Mac\Desktop\Lektion9_Resilience\ResillienceProjectA\ProjectA\obj\Debug\net5.0\ProjectA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quynh Trang Mac\Desktop\Lektion9_Resilience\ResillienceProjectA\ProjectA\obj\Debug\net5.0\ProjectA.AssemblyInfoInputs.cache
+C:\Users\Quynh Trang Mac\Desktop\Lektion9_Resilience\ResillienceProjectA\ProjectA\obj\Debug\net5.0\ProjectA.AssemblyInfo.cs
+C:\Users\Quynh Trang Mac\Desktop\Lektion9_Resilience\ResillienceProjectA\ProjectA\obj\Debug\net5.0\ProjectA.csproj.CoreCompileInputs.cache
+C:\Users\Quynh Trang Mac\Desktop\Lektion9_Resilience\ResillienceProjectA\ProjectA\obj\Debug\net5.0\ProjectA.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Quynh Trang Mac\Desktop\Lektion9_Resilience\ResillienceProjectA\ProjectA\obj\Debug\net5.0\ProjectA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Quynh Trang Mac\Desktop\Lektion9_Resilience\ResillienceProjectA\ProjectA\obj\Debug\net5.0\staticwebassets\ProjectA.StaticWebAssets.Manifest.cache
+C:\Users\Quynh Trang Mac\Desktop\Lektion9_Resilience\ResillienceProjectA\ProjectA\obj\Debug\net5.0\staticwebassets\ProjectA.StaticWebAssets.xml
+C:\Users\Quynh Trang Mac\Desktop\Lektion9_Resilience\ResillienceProjectA\ProjectA\obj\Debug\net5.0\scopedcss\bundle\ProjectA.styles.css
+C:\Users\Quynh Trang Mac\Desktop\Lektion9_Resilience\ResillienceProjectA\ProjectA\obj\Debug\net5.0\ProjectA.RazorTargetAssemblyInfo.cache
+C:\Users\Quynh Trang Mac\Desktop\Lektion9_Resilience\ResillienceProjectA\ProjectA\obj\Debug\net5.0\ProjectA.csproj.CopyComplete
+C:\Users\Quynh Trang Mac\Desktop\Lektion9_Resilience\ResillienceProjectA\ProjectA\obj\Debug\net5.0\ProjectA.dll
+C:\Users\Quynh Trang Mac\Desktop\Lektion9_Resilience\ResillienceProjectA\ProjectA\obj\Debug\net5.0\ref\ProjectA.dll
+C:\Users\Quynh Trang Mac\Desktop\Lektion9_Resilience\ResillienceProjectA\ProjectA\obj\Debug\net5.0\ProjectA.pdb
+C:\Users\Quynh Trang Mac\Desktop\Lektion9_Resilience\ResillienceProjectA\ProjectA\obj\Debug\net5.0\ProjectA.genruntimeconfig.cache

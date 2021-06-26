@@ -1,0 +1,14 @@
+<h1><%= title %></h1>
+<p>Welcome to students list</p>
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Grade</th>
+    </tr>
+    <% for(let i=0; i < students.length; i++) { %>
+    <tr>
+        <td><%= students[i].name %></td>
+        <td><%= students[i].grade %></td>
+    </tr>
+    <% } %>
+</table>

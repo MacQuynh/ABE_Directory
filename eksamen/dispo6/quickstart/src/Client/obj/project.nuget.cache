@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mZ4SiZeWtXy7mQbwbQkz9t3Doyu454QW6ngGhWOZcN3oo54kP+UELbja0CAGnF3kIl+jQb5xr0LxGhlig/q2eQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Quynh Trang Mac\\source\\repos\\ABE\\eksamen\\dispo6\\quickstart\\src\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Quynh Trang Mac\\.nuget\\packages\\identitymodel\\4.6.0\\identitymodel.4.6.0.nupkg.sha512",
+    "C:\\Users\\Quynh Trang Mac\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\Quynh Trang Mac\\.nuget\\packages\\system.text.encodings.web\\5.0.0\\system.text.encodings.web.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Lab1c - Express</title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+</head>
+
+<body>
+    <header>
+        <h2>Lab1c - Express</h2>
+    </header>
+    <div class="container">
+        <div id="nav">Menu
+            <ul class="menu">
+                <li><a href='/'>Home</a></li>
+                <li><a href='/students/list'>Show students</a></li>
+                <li><a href='/students/add'>Add student</a></li>
+            </ul>
+        </div>
+        <main>
+            <%- body %>
+        </main>
+    </div>
+    <footer>
+        <h4>Made by Poul Ejnar Rovsing</h4>
+    </footer>
+</body>
+
+</html>

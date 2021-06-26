@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/modules.xml
+/.idea.ResillienceProjectA.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../../../../../:\Users\Jonas\OneDrive\Skrivebord\Eksamen\Advanced backend development\4 - Resiliance\Lektion9_Resilience\Lektion9_Resilience\ResillienceProjectA\.idea\.idea.ResillienceProjectA\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
